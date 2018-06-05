@@ -6,9 +6,9 @@
 
 2. 每周选取几个计算机相关的问题进行讨论，巩固基础知识。
 
-   ## 二、 成员
+## 二、 成员
 
-   hxl、jyx、zyt、zjm、fll、zqf、zzm、drm、jwm、wf、wq
+hxl、jyx、zyt、zjm、fll、zqf、zzm、drm、jwm、wf、wq
 
 ## 三、 参与方式
 
