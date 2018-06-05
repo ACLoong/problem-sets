@@ -8,7 +8,7 @@
 
    ## 二、 成员
 
-   hxl、jyx、zyt、zjm、fll、zqf、zjm、jwm、wf、wq
+   hxl、jyx、zyt、zjm、fll、zqf、zzm、drm、jwm、wf、wq
 
 ## 三、 参与方式
 
