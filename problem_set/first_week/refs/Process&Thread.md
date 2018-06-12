@@ -22,7 +22,7 @@ chapter2—进程与线程
 [Link](https://www.jianshu.com/p/2b993a4b913e)
 
 3. 操作系统—进程、线程、调度：
-[Link](:https://www.jianshu.com/p/91c8600cb2ae)
+[Link](https://www.jianshu.com/p/91c8600cb2ae)
 
 
 ****
