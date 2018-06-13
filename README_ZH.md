@@ -31,7 +31,7 @@
 | Wenming Jin    |  Zhuming Zhou     |  
 
 
-## Doc Structure
+## Document Structure
 
 Topic.md<br>
 　　|---讨论话题<br>
