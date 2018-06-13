@@ -8,14 +8,13 @@ Our aim to improve our interest in learing computer knowledge and create an atmo
 3.	We will spend a week to learning and understanding these materials and knowledge.
 4.	At weekends, we will discuss and summarize the problems, and then save the results of the discussions in the form of documents.
 # Doc Structure
-Topic.md
-  |--- Topic discussion
-      |--- question list
-      |--- Everyone's opinion
-  |--- Author(you can use the abbreviation of the name)
-      |--- Your Answer
-      |--- ===================(Your answer is written in the back of the line.)
-  
+  Topic.md
+    |---Topic discussion
+        |---question list
+        |---Everyone's opinion
+    |---Author(you can use the abbreviation of the name)
+        |---Your Answer
+        |---===================(Your answer is written in the back of the line.)
 # Core Member
 | Member      |	Member         |	Member       |
 | :---   |  :---:   |   ---: |
