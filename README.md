@@ -1,6 +1,6 @@
 # Problem_sets
 
-[中文版](/README_ZH.md)
+## [中文版](/README_ZH.md)
 
 Discussion about the basic knowledge of Computer Science
 
