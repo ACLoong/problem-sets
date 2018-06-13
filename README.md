@@ -7,7 +7,7 @@ Discussions about the basic knowledge of Computer Science
 
 ## Background
 
-We aim to improve our interest in learning computer knowledge and create an atmosphere for learning computer science. We hope that we can enhance our professional capability about CS through this project.
+We aim to improve our interest in learning computer knowledge and create an atmosphere of learning computer science and technology. We hope that we can enhance our professional capability in CS through this project.
 
 
 ## Details
@@ -31,7 +31,7 @@ We aim to improve our interest in learning computer knowledge and create an atmo
 | Wenming Jin    |  Zhuming Zhou     |  
 
 
-## Doc Structure
+## Document Structure
 
 Topic.md<br>
 　　|--- Topic discussion<br>
@@ -44,7 +44,7 @@ Topic.md<br>
 
 ## How to Contribute
 
-1. `fork` this project to your Github；
+1. `fork` this repository to your Github；
 
 2. Use the command(`git clone + your repository url`) to clone this repository from your Github to local repository；
 
