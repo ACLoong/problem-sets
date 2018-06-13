@@ -1,5 +1,7 @@
 # Problem-sets
 
+## [英文版](/README.md)
+
 计算机科学相关基础知识讨论
 
 
