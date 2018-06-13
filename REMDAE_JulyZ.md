@@ -18,6 +18,7 @@ Topic.md
   
  Core Member
 | Member      |	Member         |	Member       |
+| ：---       | ：---：         | ---：         |
 | Qing Wang   |	Xiaolong He    |	Yuxin Jin    |
 |Yunteng Zhang|	Jiangmei Zhang |	Qiangfei Zhou|
 |Luanluan Feng|	Rumei Deng	   |  Fan Wu       |
