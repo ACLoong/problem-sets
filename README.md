@@ -16,9 +16,9 @@ We aim to improve our interest in learning computer knowledge and create an atmo
 
 2. In order to improve efficiency, students who knows relevant knowledge in related fileds will provide authoritative reference materials at first.
 
-3. We will spend a week to learn and understanding these materials and knowledge.
+3. We will spend a week to learn and understand these materials and knowledge.
 
-4. At weekends, we will discuss and summarize the problems, and then save the results of the discussions in the form of documents.
+4. On the weekends, we will discuss and summarize the problems, and then save the results of the discussions in the form of documents.
 
 
 ## Core Members
@@ -46,17 +46,17 @@ Topic.md<br>
 
 1. `fork` this project to your Github；
 
-2. Use this command(`git clone + your repository url`) to clone this repository from your Github to local；
+2. Use the command(`git clone + your repository url`) to clone this repository from your Github to local repository；
 
-3. Modify or add related content in a local project according to your needs；
+3. Modify or add the related content in a local project according to your needs dynamicly；
 
-4. Use this command (`git add` , `git commit -m + "commmit message"`) to submit the changes to the local version library after the end of the your change；
+4. Use the command (`git add` , `git commit -m + "commmit message"`) to submit the changes to the local repository after the end of the your change；
 
 5. Use the (`git push`) command to synchronize local modifications to Github's remote repository；
 
-6. Send (`pull requests`) to **the owner of the repository**；
+6. Send (`pull requests`) and @someone in our team to `review` it；
 
-7. (`review`)adopt or return modification。
+7. (`review`) whether adopt or return to have a modification。
 
 
 ## How to Subscribe
