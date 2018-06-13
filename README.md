@@ -7,7 +7,7 @@ Discussions about the basic knowledge of Computer Science
 
 ## Background
 
-We aim to improve our interest in learning computer knowledge and create an atmosphere of learning computer science and technology. We hope that we can enhance our professional capability in CS through this project.
+our aim is to get interested in learning computer science and create an atmosphere of learning computer science and technology. We hope that we can enhance our professional capability in CS through this project.
 
 
 ## Details
