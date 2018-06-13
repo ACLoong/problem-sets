@@ -61,9 +61,9 @@ Topic.md<br>
 
 ## How to Subscribe
 
-Star this project. After Star, every time this item has the latest update, you can also see it for the first time.
+Star this project. After Star it, every time this item has the latest update, you can also see it for the first time.
 
 
 ## Thanks
 
-Thank all those who have contributed to this.
+Thanks for all those who have contributed to this.
