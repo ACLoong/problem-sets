@@ -52,9 +52,9 @@ Topic.md<br>
 
 4. Use this command (`git add` , `git commit -m + "commmit message"`) to submit the changes to the local version library after the end of the your change；
 
-5. use the (`git push`) command to synchronize local modifications to Github's remote repository；
+5. Use the (`git push`) command to synchronize local modifications to Github's remote repository；
 
-6. send (`pull requests`) to Jovany Wong；
+6. Send (`pull requests`) to Jovany Wong；
 
 7. (`review`)adopt or return modification。
 
