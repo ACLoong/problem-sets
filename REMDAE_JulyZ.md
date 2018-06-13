@@ -1,50 +1,37 @@
-Problem-sets
-计算机科学相关基础知识讨论
-
-Background
-鼓励大家的学习兴趣，提高大家学习计算机相关技术的氛围，从而达到提高计算机科学专业素养能力的目标。
-
-Detail
-每周选取几个计算机科学相关的问题进行讨论。
-
-为了提高效率，可以由对问题所涉及到的相关领域熟悉的同学先给出对应的领域比较权威的参考性资料。
-
-大家针对所给出的参考资料，在为期一周的时间内进行阅读和理解。
-
-每周末小组成员进行相关的讨论和总结，并将讨论的结果形成文档进行保存，从而最终达到巩固大家计算机基础知识的目的。
-
-Core Member
-Member	Member	Member
-Qing Wang	Xiaolong He	Yuxin Jin
-Yunteng Zhang	Jiangmei Zhang	Qiangfei Zhou
-Luanluan Feng	Rumei Deng	Fan Wu
-Wenming Jin	Zhuming Zhou	
-Doc Structure
+# Problem_sets
+Discussion about the basic knowledge of Computer Science
+# Background	
+Our aim to improve our interest in learing computer knowledge and create an atmosphere for learning. We hope that we can enhance our professional capability  through this project.
+# Detail
+1.	We  will  discuss some questions about computer science every week.
+2.	In order to improve efficiency, students who know relevant knowledge will  provide authoritative reference materials at first.
+3.	We will spend a week to learning and understanding these materials and knowledge.
+4.	At weekends, we will discuss and summarize the problems, and then save the results of the discussions in the form of documents.
+# Doc Structure
 Topic.md
-　　|---讨论话题
+　　|--- Topic discussion
 　　　　|--- question list
-　　|---各自见解
-　　　　|--- Author(可以用姓名的开头缩写)
-　　　　|--- Your Answer
-　　　　|--- ===================(以此分隔线作为你的回答的结束)
-
-How to Contribute
-fork此仓库到自己的Github；
-
-利用git clone + your repository url命令将此项目从你的Github克隆到本地；
-
-在本地修改或者增加此项目的相关内容；
-
-在本地更改结束之后利用git add , git commit -m + "commmit message"命令将修改提交到本地版本库；
-
-利用git push命令将本地的修改同步到Github的远程仓库；
-
-发送pull requests给王清；
-
-review通过或者返回修改。
-
-How to Subscribe
-Star此项目即可。Star之后，每次此项目有最新的更新，你也可以第一时间看到。
-
-Thanks
-感谢所有对此项目做出贡献的人
+　　|--- Everyone's opinion
+|--- Author(you can use the abbreviation of the name)
+　　|--- Your Answer
+　　|--- ===================(Your answer is written in the back of the line.)
+  
+ Core Member
+| Member      |	Member         |	Member       |
+| Qing Wang   |	Xiaolong He    |	Yuxin Jin    |
+|Yunteng Zhang|	Jiangmei Zhang |	Qiangfei Zhou|
+|Luanluan Feng|	Rumei Deng	   |  Fan Wu       |
+Wenming Jin	Zhuming Zhou	
+  
+# How to Contribute
+1.	fork his project to your Github；
+2.	Use this command(git clone + your repository url) to clone this item from your Github to local；
+3.	Modifying or adding related content in a local project according to your needs；
+4.	Use this command (git add , git commit -m + "commmit message") to submit the changes to the local version library after the end of the your change；
+5.	use the (git push) command to synchronize local modifications to Github's remote repository；
+6.	send (pull requests) to Jovany Wong；
+7.	(review)adopt or return modification。
+# How to Subscribe
+Star this project. After Star, every time this item has the latest update, you can also see it for the first time.
+# Thanks
+Thank all those who have contributed to this.
