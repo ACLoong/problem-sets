@@ -2,7 +2,7 @@
 
 ## [中文版](/README_ZH.md)
 
-Discussion about the basic knowledge of Computer Science
+Discussions about the basic knowledge of Computer Science
 
 
 ## Background
