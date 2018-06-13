@@ -16,9 +16,9 @@ Topic.md
 　　|--- Your Answer
 　　|--- ===================(Your answer is written in the back of the line.)
   
- Core Member
+# Core Member
 | Member      |	Member         |	Member       |
-| ：---       | ：---：         | ---：         |
+| :---   |  :---:   |   ---: |
 | Qing Wang   |	Xiaolong He    |	Yuxin Jin    |
 |Yunteng Zhang|	Jiangmei Zhang |	Qiangfei Zhou|
 |Luanluan Feng|	Rumei Deng	   |  Fan Wu       |
