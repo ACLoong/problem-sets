@@ -66,4 +66,4 @@ Star this project. After Staring it, every time this repository has the latest u
 
 ## Thanks
 
-Thanks for all those who have contributed to this.
+Thanks for all those who have contributed to it.
