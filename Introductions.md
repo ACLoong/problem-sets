@@ -1,4 +1,4 @@
-## This document is to introduce each member in our ACLoong group.Although the introduction is not so detail,we will supplement it in the feture.
+## This document is to introduce each member in our ACLoong group.Although the introduction is not so detail,we will supplement it in the future.
 
 ### Jovany Wang ###
 ***
