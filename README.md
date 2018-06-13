@@ -61,7 +61,7 @@ Topic.md<br>
 
 ## How to Subscribe
 
-Star this project. After Staring it, every time this item has the latest update, you can also see it at the first time.
+Star this project. After Staring it, every time this repository has the latest update, you will know it at once.
 
 
 ## Thanks
