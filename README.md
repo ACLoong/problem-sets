@@ -7,14 +7,14 @@ Discussions about the basic knowledge of Computer Science
 
 ## Background
 
-Our aim is to get our interest in learning computer science and create an atmosphere of learning computer science and technology. We hope that we can enhance our professional capability in CS through this project.
+Our aim is to get interested in learning computer science and create an atmosphere of learning computer science and technology. We hope that we can enhance our professional capability in CS through this project.
 
 
 ## Details
 
 1. We will discuss some questions about computer science every week.
 
-2. In order to improve efficiency, students who knows relevant knowledge in related fields will provide authoritative reference materials at first.
+2. In order to improve efficiency, students who know relevant knowledge in related fields will provide authoritative reference materials at first.
 
 3. We will spend a week in learning and understanding these materials and knowledge.
 
