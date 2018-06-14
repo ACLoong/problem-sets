@@ -1,6 +1,6 @@
 # Introduction Of Team Member 
 
-## [???](/Introductions_zh.md)
+## [中文版](/Introductions_zh.md)
 
 This document is to introduce each member in our ACLoong group. Although the introduction is not so detail,we will supplement it in the future.
 
