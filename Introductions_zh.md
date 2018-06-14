@@ -1,99 +1,67 @@
-# Introduction Of Team Member 
-This document is to introduce each member in our ACLoong group. Although the introduction is not so detail,we will supplement it in the future.
+## This document is to introduce each member in our ACLoong group.Although the introduction is not so detail,we will supplement it in the future.
 
-> If you have any confusion about joining this group, please open an issue on github or email to any members in this group.
+## [英文版](/Introductions.md)
 
-# Contents
 ### Jovany Wang ###
 ***
-- His Chinese name is WangQing. 
-- he is working as a distributed computing engineer at Alibaba currently.
-- His main research direction is distributed storage and computing.
-- His main programming language is C++, the secondary programming language is Java and Python.
+**中文名是王清，目前在阿里巴巴担任分布式计算工程师的工作。他的主要研究方向是分布式存储和计算。他的主要编程语言是C++，次要编程语言是Python和Java。**
 ***
 
 ### Xiaolong He ###
 ***
-- His Chinese name is Xiaolong He,he has been studying at East China Normal University as a Software Engineering
- Ph.D from 2017.
-- He is working at the Bank of Communications data center.The project that he is responsible for is Cbase, a distributed relational database based on the open source oceanbase.
-- His main programming language is C++.
+**中文名是贺小龙，华东师范大学软件工程专业2017级博士研究生。目前在交通银行数据中心实习，做的项目是Cbase，基于开源的oceanbase的分布式关系数据库。他的主要编程语言是C++。**
 ***
 
 ### Zhuming Zhou ###
 ***
-- His Chinese name is Zhuming Zhou, he has been studying at Xi'an Jiaotong University as a Software Engineering master from 2017.
-- His research direction is deep learning and computer vision.
-- His main programming language is Python, the secondary programming language is Java.
+**中文名是周住铭，西安交通大学软件学院软件工程专业2017级硕士研究生。研究方向是深度学习与计算机视觉。他的主要编程语言是Python，次要编程语言是Java。**
 ***
 
 ### July Zhang ###
 ***
-- Her Chinese name is Jiangmei Zhang, she has been studying at Dalian University as a CS master from 2017.
-- Her research direction is data mining and feature selection.
-- Her main programming language is C++.
-
+**中文名是张江梅，大连大学计算机专业2017级硕士研究生。研究方向是数据挖掘_特征选择。她的主要编程语言是C++。**
 ***
 
 ### Rumei Deng ###
 ***
-- Her Chinese name is Rumei Deng, she has been studying at East China Normal University as a Software Engineering master from 2017.
-- Her research direction is software trusted measure.
-- Her main programming language is Java.
+**中文名是邓如妹，华东师范大学软件工程专业2017级硕士研究生。研究方向是软件可信度量。她的主要编程语言是Java。**
 ***
 
 ### Luanluan Feng ###
 ***
-- Her Chinese name is Luanluan Feng, she has studying at Soochow University as a CS master from 2017.
-- Her research direction is natural language processing.
-- The current project which she participate in is a military project. This project is about military technology and terminology extraction. What she do in this project is basic technical terminology identification, which is part of Named Entity Recognition(NER).
-- Her main programming language is Python.
+**中文名是冯鸾鸾，苏州大学计算机专业2017级硕士研究生。研究方向是自然语言处理，目前在做的项目是一个军工项目，军事类技术与术语抽取，做其中最基本的技术术语识别，是命名实体识别的一部分。她的主要编程语言是Python。**
 ***
 
 ### Ferrarifei Zhou ###
 ***
-- His Chinese name is Qiangfei Zhou, he will study at Beijing University of Posts and Telecommunications as a master at 2018.
-- His main programming language is Java.
+**中文名是周强飞，北京邮电大学计算机专业2018级硕士研究生。目前暂无研究方向。他的主要编程语言是Java。**
 ***
 
 ### Fan Wu ###
 ***
-- Her Chinese name is Fan Wu, she has been studying at Soochow University as a CS master from 2017.
-- Her Research direction is text classification, emotional classification.
-- Her main programming language is Python.
+**中文名是吴璠，苏州大学计算机专业2017级硕士研究生。研究方向是文本分类、情感分类。她的主要编程语言是Python。**
 ***
 
 ### Yunteng Zhang ###
 ***
-- His Chinese name is Yunteng Zhang, he was graduated from Anhui University of Finance and Economics
- at 2017.
-- His main programming language is C++.
+**中文名是张云腾，安徽财经大学2017届本科生。他的主要编程语言是C++。**
 ***
 
 ### Wenming Jin ###
 ***
-- His Chinese name is Wenming Jing, he has been studying at Nanjing University of Aeronautics and Astronautics as a CS master from 2017.
-- He is doing cloud computing related projects right now.
-- His main programming language is Java, the secondary programming language is Python and C.
+**中文名是晋文明，南京航空航天大学计算机专业2017级硕士研究生。现在在做云计算相关的项目。他的主要编程语言是Java，次要编程语言是Python和C。**
 ***
 
 ### Throcean ###
 ***
-- His Chinese name is Wendong Wu, he will study at Beihang University as a master at 2018.
-- He is working as a software engineer in Beijing.
-- He is skilled at *ux operatoring system.
-- His main programming language is C++.
+**中文名是吴文栋，北京航空航天大学2018级硕士研究生。他主要技能是熟悉LINUX、UNIX操作系统。目前在北京从事软件研发工作。他的主要编程语言是C++。**
 ***
 
 ### Goldfish ###
 ***
-- His Chinese name is Yuxin Jin, he has been studying at Hefei University of Technology as a master from 2017.
-- His research direction is true value reasoning and discovery.
-- His main programming language is Java, the secondary programming language is Python.
+**中文名是金余新，合肥工业大学2017级硕士研究生。目前的研究方向是真值推理和发现。他的主要编程语言是Java，次要编程语言是Python。**
 ***
 
 ### Qian Lu ###
 ***
-- Her Chinese name is LuQian, she has been studying at Dalian University as a CS master from 2017.
-- She is interested in ML and she has already learned some basic traditional models.
-- Her main programming language is C++, the secondary programming language is Java and Python.
+**中文名是卢骞，大连大学计算机专业2017级硕士研究生。目前的研究方向是作战效能评估技术。她对机器学习很感兴趣，已经学习了一些基本的机器学习模型。她的主要编程语言是C++，次要编程语言是Java和Python。**

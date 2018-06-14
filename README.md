@@ -2,36 +2,36 @@
 
 ## [中文版](/README_ZH.md)
 
-Discussions about the basic knowledge of Computer Science
+Discussion about the basic knowledge of Computer Science
 
 
 ## Background
 
-our aim is to get interested in learning computer science and create an atmosphere of learning computer science and technology. We hope that we can enhance our professional capability in CS through this project.
+We aim to improve our interest in learning computer knowledge and create an atmosphere for learning computer science. We hope that we can enhance our professional capability about CS through this project.
 
 
-## Details
+## Detail
 
 1. We will discuss some questions about computer science every week.
 
-2. In order to improve efficiency, students who knows relevant knowledge in related fileds will provide authoritative reference materials at first.
+2. In order to improve efficiency, students who know relevant knowledge will  provide authoritative reference materials at first.
 
-3. We will spend a week to learn and understand these materials and knowledge.
+3. We will spend a week to learning and understanding these materials and knowledge.
 
-4. On the weekends, we will discuss and summarize the problems, and then save the results of the discussions in the form of documents.
+4. At weekends, we will discuss and summarize the problems, and then save the results of the discussions in the form of documents.
 
 
-## Core Members
+## Core Member
 
 | Member |  Member |  Member |
 | :---:   |  :---:   |   :---: |
 | Qing Wang    |  Xiaolong He     |  Yuxin Jin   |
 | Yunteng Zhang    |  Jiangmei Zhang     | Qiangfei Zhou  |
 | Luanluan Feng    |  Rumei Deng     |  Fan Wu   |
-| Wenming Jin    |  Zhuming Zhou     |  Qian Lu  |
+| Wenming Jin    |  Zhuming Zhou     |  
 
 
-## Document Structure
+## Doc Structure
 
 Topic.md<br>
 　　|--- Topic discussion<br>
@@ -44,26 +44,26 @@ Topic.md<br>
 
 ## How to Contribute
 
-1. `fork` this repository to your Github；
+1. `fork` his project to your Github；
 
-2. Use the command(`git clone + your repository url`) to clone this repository from your Github to local repository；
+2. Use this command(`git clone + your repository url`) to clone this item from your Github to local；
 
-3. Modify or add the related content in a local project according to your needs dynamicly；
+3. Modifying or adding related content in a local project according to your needs；
 
-4. Use the command (`git add` , `git commit -m + "commmit message"`) to submit the changes to the local repository after the end of the your change；
+4. Use this command (`git add` , `git commit -m + "commmit message"`) to submit the changes to the local version library after the end of the your change；
 
 5. Use the (`git push`) command to synchronize local modifications to Github's remote repository；
 
-6. Send (`pull requests`) and @someone in our team to `review` it；
+6. Send (`pull requests`) to Jovany Wong；
 
-7. (`review`) whether adopt or return to have a modification。
+7. (`review`)adopt or return modification。
 
 
 ## How to Subscribe
 
-Star this project. After Staring it, every time this repository has the latest update, you will know it at once.
+Star this project. After Star it, every time this item has the latest update, you can also see it for the first time.
 
 
 ## Thanks
 
-Thanks for all those who have contributed to it.
+Thanks for all those who have contributed to this.
