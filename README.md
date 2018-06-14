@@ -28,7 +28,7 @@ our aim is to get interested in learning computer science and create an atmosphe
 | Qing Wang    |  Xiaolong He     |  Yuxin Jin   |
 | Yunteng Zhang    |  Jiangmei Zhang     | Qiangfei Zhou  |
 | Luanluan Feng    |  Rumei Deng     |  Fan Wu   |
-| Wenming Jin    |  Zhuming Zhou     |  
+| Wenming Jin    |  Zhuming Zhou     |  Qian Lu  |
 
 
 ## Document Structure
