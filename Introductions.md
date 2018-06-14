@@ -1,4 +1,7 @@
 # Introduction Of Team Member 
+
+## [???](/Introductions_zh.md)
+
 This document is to introduce each member in our ACLoong group. Although the introduction is not so detail,we will supplement it in the future.
 
 > If you have any confusion about joining this group, please open an issue on github or email to any members in this group.
