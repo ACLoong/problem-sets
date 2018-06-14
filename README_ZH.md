@@ -54,7 +54,7 @@ Topic.md<br>
 
 5. 利用`git push`命令将本地的修改同步到Github的远程仓库；
 
-6. 发送`pull requests`给仓库管理员；
+6. 发送`pull requests`,我们团队的任何一个人都可以`review`这个requests；
 
 7. `review`通过或者返回修改。
 
