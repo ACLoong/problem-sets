@@ -48,7 +48,7 @@ Topic.md<br>
 
 2. Use this command(`git clone + your repository url`) to clone this repository from your Github to local；
 
-3. Modify or adding related content in a local project according to your needs；
+3. Modify or add related content in a local project dynamically according to your needs；
 
 4. Use this command (`git add` , `git commit -m + "commmit message"`) to submit the changes to the local repository after the achievement of your change；
 
