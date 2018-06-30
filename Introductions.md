@@ -97,6 +97,13 @@ This document is to introduce each member in our ACLoong group. Although the int
 
 ### Qian Lu ###
 ***
-- Her Chinese name is LuQian, she has been studying at Dalian University as a CS master from 2017.
+- Her Chinese name is Qian Lu, she has been studying at Dalian University as a CS master from 2017.
 - She is interested in ML and she has already learned some basic traditional models.
 - Her main programming language is C++, the secondary programming language is Java and Python.
+***
+
+### Xue Li ###
+***
+- His Chinese name is Xue Li, he has been studying at Xi'an Jiaotong University as a Software Engineering master from 2017.
+- He is interested in Natural Language Processing,and his research direction is Sentiment Analysis and Text Mining.
+- His main programming language is Java, the secondary programming language is Python.
